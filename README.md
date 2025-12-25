@@ -23,3 +23,12 @@ Below are the direct GitHub URLs to each required file:
 
 - CartItem.jsx (shopping cart page with totals, quantity controls, delete, checkout, continue shopping)
 [CartItem.jsx](https://github.com/DuongNManh/e-plantShopping/blob/main/src/CartItem.jsx)
+
+
+## Peer-Graded Submission and Evaluation
+
+- Submit the URL of your deployed application, hosted on GitHub Pages or another platform.
+[e-plant-shopping](https://e-plant-shopping-cyan.vercel.app/)
+
+- Submit the GitHub URL of your public repository, named e-plantShopping
+[e-plant-shopping](https://github.com/DuongNManh/e-plantShopping)
